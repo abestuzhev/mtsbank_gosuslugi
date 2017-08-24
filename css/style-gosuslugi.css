@@ -46,7 +46,11 @@
 }
 
 .gu-info__section {
-    margin-bottom: 32px;
+    margin-bottom: 20px;
+}
+
+#article .gu-info__section p:last-of-type{
+    margin-bottom: 0;
 }
 
 /*gu-info__more*/
